@@ -39,9 +39,10 @@ TravelCrop is a dynamic and user-friendly travel booking web application that al
 ---
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/SANDUN55/-Travel-Crop-/main/public/1.png" alt="TC" width="600"><br><br>
-<img src="https://raw.githubusercontent.com/SANDUN55/-Travel-Crop-/main/public/2.png" alt="TC" width="600"><br><br>
-<img src="https://raw.githubusercontent.com/SANDUN55/-Travel-Crop-/main/public/3.png" alt="TC" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/SANDUN55/-Travel-Crop-/main/image/1.png" alt="TC" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/SANDUN55/-Travel-Crop-/main/image/2.png" alt="TC" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/SANDUN55/-Travel-Crop-/main/image/3.png" alt="TC" width="600"><br><br>
+
 
 
 
